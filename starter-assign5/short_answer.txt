@@ -1,0 +1,26 @@
+WARMUP:
+Q1. _id maintains the same value, _x increments by 3, and _y increments by 4 after every iteration.
+
+Q2.  After a few iterations, the values of the member variables remain stagnant.
+
+Q3. The stuck ball is now located on the upper left hand corner and it moves normally.
+
+Q4. The program crashed when I tried accessing an index outside the allocated array bounds.
+
+When I tried to delete the same memory twice, it appears to working correctly.
+
+Accessing memory after it has been deleted caused my program to crash.
+
+
+String Instrument
+
+Q5: When the string is first created, the waveform array is set to all 0s. When it is first plucked,
+the first half of the array is set to +0.05, and the second half of the array is set to -0.05.
+
+Q6: The new waveform array would look like: 0.05, 0.05, 0.05, 0, 0, -0.05, -0.05, -0.05.
+
+Q7: Changing the buffer values from +0.05 and -0.05 to +0.25 and -0.25 would increase the frequency, or pitch
+of the sound. You would hear a higher pitch.
+
+
+
